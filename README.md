@@ -3,9 +3,9 @@
 
 - 🔭 I recently worked on **[Student Specialty Advisor](https://github.com/Student-Specialty-Advisor/)**
 
-- 🌱 I’m currently learning **Software Engineering at SMU, MedTech**
+- 🌱 I’m currently a **Software Engineering student at South Mediterranean University, MedTech**
 
-- 🤝 I’m currently looking for **Software Engineering Summer Internship**
+- 🤝 I’m currently learning **Unreal Engine 5 and working on my personal website**
 
 - 💬 One of my hobbies is **Playing & Making Video Games**
 
