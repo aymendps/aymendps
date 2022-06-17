@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aymen</h1>
 <h3 align="center">A passionate software engineering student from Tunisia.</h3>
 
-- 🔭 I recently worked on **[Student Specialty Advisor](https://github.com/Student-Specialty-Advisor/)**
+- 🔭 I recently worked on this project **[Student Specialty Advisor](https://github.com/Student-Specialty-Advisor/)**
+
+- 💼 I'm currently doing **a summer internship @Cynoia**
 
 - 🌱 I’m currently a **Software Engineering student at South Mediterranean University, MedTech**
 
