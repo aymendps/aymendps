@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a **Software Engineering student at South Mediterranean University, MedTech**
 
-- 🤝 I’m currently learning **Unreal Engine 5 and working on my personal website**
+- 🤝 I’m currently learning **C++, Unreal Engine 5 and working on my personal website**
 
 - 💬 One of my hobbies is **Playing & Making Video Games**
 
