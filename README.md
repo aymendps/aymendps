@@ -11,7 +11,7 @@
 
 - 💬 My biggest hobby is **Playing & Making Video Games**
 
-- 📫 How to reach me by email: **hammami.aym@outlook.com**
+- 📫 You can always reach me at **hammami.aym@outlook.com**
 
 <h3>Personal Website: <a>In progress</a></h3>
 <h3 align="left">Connect with me:</h3>
