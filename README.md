@@ -5,15 +5,13 @@
 
 - 🔭 One of my recent projects is **[Student Specialty Advisor](https://github.com/Student-Specialty-Advisor/)**
 
-- 💼 I'm currently doing **a summer internship @Cynoia**
-
-- 🌱 I’m currently a **Software Engineering student at [South Mediterranean University, MedTech](https://www.smu.tn/medtech)**
+- 💼 I’m currently a **Software Engineering student at [South Mediterranean University, MedTech](https://www.smu.tn/medtech)**
 
 - 🤝 I’m currently learning **C++, Unreal Engine 5 and working on my personal website**
 
-- 💬 One of my hobbies is **Playing & Making Video Games**
+- 💬 My biggest hobby is **Playing & Making Video Games**
 
-- 📫 How to reach me **hammami.aym@outlook.com**
+- 📫 How to reach me by email: **hammami.aym@outlook.com**
 
 <h3>Personal Website: <a>In progress</a></h3>
 <h3 align="left">Connect with me:</h3>
