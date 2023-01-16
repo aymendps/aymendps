@@ -3,17 +3,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 One of my recent projects is **[Student Specialty Advisor](https://github.com/Student-Specialty-Advisor/)**
+- 💼 I’m currently a **Senior Software Engineering student at [South Mediterranean University, MedTech](https://www.smu.tn/medtech)**
 
-- 💼 I’m currently a **Software Engineering student at [South Mediterranean University, MedTech](https://www.smu.tn/medtech)**
+- 💬 My hobbies include **playing & making Video Games, listening to Blues & Hip Hop, hanging out with friends**
 
-- 🤝 I’m currently learning **C++, Unreal Engine 5 and working on my personal website**
+- 📫 You can always reach me at **hammami.aym@outlook.com** or through social media
 
-- 💬 My biggest hobby is **Playing & Making Video Games**
-
-- 📫 You can always reach me at **hammami.aym@outlook.com**
-
-<h3>Personal Website: <a>In progress</a></h3>
+<h3>Personal Website / Portfolio: <a>In progress</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aymendps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymendps" height="30" width="40" /></a>
