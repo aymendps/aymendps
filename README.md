@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymen</h1>
-<h3 align="center">A passionate software engineering student from Tunisia.</h3>
+<h3 align="center">Software engineering student from Tunisia</h3>
 
 <h3 align="left">About me:</h3>
 
