@@ -7,7 +7,7 @@
 
 - 💬 My hobbies include **playing & making Video Games, listening to Blues & Hip Hop, hanging out with friends**
 
-- 📫 You can always reach me at **hammami.aym@outlook.com** or through social media
+- 📫 You can always reach me at **hammami.aym@outlook.com** or through **[LinkedIn](https://www.linkedin.com/in/aymendps/)**
 
 <h3>Personal Website / Portfolio: <a>In progress</a></h3>
 
